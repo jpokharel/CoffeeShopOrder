@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity_text">quantity</string>
+    <string name="price_text">order summary</string>
+    <string name="order_button_text">order</string>
+    <string name="toppings_text">toppings</string>
+    <string name="whipped_cream_text">Whipped cream</string>
+    <string name="chocolate_text">Chocolate</string>
+    <string name="name_hint_text">Name</string>
+    <string name="order_summary_text">Coffee Order Summary for</string>
+    <string name="oder_name_text">Name:</string>
+    <string name="order_whipped_text">Add whipped cream?</string>
+    <string name="order_quantity_text">Quantity:</string>
+    <string name="order_total_text">Total: $</string>
+    <string name="order_thank_you_text">Thank You !</string>
+    <string name="order_chocolate_text">Add chocolate?</string>
+    <string name="text_less_than_one_item">Please order at least one item!</string>
+    <string name="text_more_than_100_items">You cannot order more than 100 items!</string>
+</resources>

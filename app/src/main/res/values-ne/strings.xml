@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate_text">चकलेट</string>
+    <string name="name_hint_text">नाम</string>
+    <string name="oder_name_text">"नाम: "</string>
+    <string name="order_button_text">मगाउनु</string>
+    <string name="order_chocolate_text">" थप चकलेट?"</string>
+    <string name="order_quantity_text">मात्रा:</string>
+    <string name="order_summary_text">कफी अर्डर सारांश</string>
+    <string name="order_thank_you_text">धन्यवाद !</string>
+    <string name="order_total_text">कुल: रु.</string>
+    <string name="order_whipped_text">थप क्रीम ?</string>
+    <string name="text_less_than_one_item">" कृपया कम्तिमा एउटा वस्तु "</string>
+    <string name="price_text">कफी अर्डर सारांश</string>
+    <string name="quantity_text">मात्रा</string>
+    <string name="text_more_than_100_items">कृपया 100 भन्दा बढी वस्तुहरू माग छैन!</string>
+    <string name="toppings_text">थप</string>
+    <string name="whipped_cream_text">क्रीम</string>
+</resources>
